@@ -47,5 +47,4 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-appfilter luci-i18n-appfilter-zh-cn"
 # Easytier
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES easytier luci-app-easytier"
 # momo
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-momo_1.1.0-r1_all.ipk luci-i18n-momo-zh-cn_25.363.32311~ce1d6a9_all.ipk"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-momo luci-i18n-momo-zh-cn_25.363.32311~ce1d6a9_all.ipk"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-momo.ipk luci-i18n-momo-zh-cn.ipk"
